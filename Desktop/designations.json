@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "63abebb6eb5b5be513d38666"
+  },
+  "name": "arshad",
+  "isdelete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac2405bdcd130ed4407461"
+  },
+  "name": "ashir",
+  "isdelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac240ebdcd130ed4407463"
+  },
+  "name": "sony",
+  "isdelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac2cde893ed60ba2716b45"
+  },
+  "name": "soniya",
+  "isdelete": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac3201d8447a4ca084472c"
+  },
+  "name": "adarsh",
+  "isdelete": false,
+  "__v": 0
+}]
